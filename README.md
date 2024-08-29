@@ -28,7 +28,7 @@ Here is a list of some of the projects I have completed during this journey.
 
 **All of them were made without access to the internet or any generative AI.**
 
-### Online multiplayer drawing game
+## Online multiplayer drawing game
 
 - **From**: UWDC2024
 - **Time**: 7h
@@ -37,7 +37,7 @@ Description: In UWDC2024, your task is to build a collaborative drawing game des
 
 ![alt text](screenshots/uwdc24_1.png)
 
-### Virtual office
+## Virtual office
 
 - **From:** UWDC2023
 - **Time:** 6h
@@ -55,9 +55,7 @@ Users can:
 
 ![alt text](screenshots/uwdc23_1.png)
 
-### Concert ticket system
-
-### Easing functions visual simulator
+## Easing functions visual simulator
 
 - **From:** EuroSkills 2018
 - **Time:** 6.5h
@@ -66,7 +64,7 @@ Users can:
 
 ![alt text](screenshots/es18_1.png)
 
-### E-commerce website and admin dashboard
+## E-commerce website and admin dashboard
 
 - **From:** EuroSkills 2018
 - **Time:** 6.5h
@@ -75,7 +73,7 @@ Users can:
 
 ![alt text](screenshots/es18_2.png)
 
-### Snowman 2.0 throw game
+## Snowman 2.0 throw game
 
 - **From:** UWDC2021
 - **Time:** 6h
@@ -87,14 +85,14 @@ Players start by entering their name, selecting a country code, and optionally u
 ![alt text](screenshots/uwdc21_1.png)
 ![alt text](screenshots/uwdc21_2.png)
 
-### Restaurant table reserving API
+## Restaurant table reserving API
 
 - **From:** WorldSkills 2015
 - **Time:** 3h
 
 **Description:** WorldSkills International plans to create a web application to manage reservations for the Restaurant Service competition. The application must accommodate both individual and group bookings and align with the WorldSkills brand. Four dining modules—Casual Dining, Bar Service, Fine Dining, and Banquet Dining—are offered, each with specific seating times and configurations. The system should display real-time availability and allow full seating bookings. A restriction is in place to ensure no more than 30 guests from the same country are seated together to avoid guests sitting at a table served by a Restaurant Service Competitor from their own country. Bookings are subject to confirmation by WSI staff, who can also reschedule bookings. The system should handle waitlisting for overbooked sessions and notify guests if they are waitlisted. The web application will include a homepage, booking details, booking request forms for individuals and groups, submission confirmation, and reservation management pages.
 
-### Google Maps clone
+## Google Maps clone
 
 - **From:** WorldSkills 2017
 - **Time:** 3h + 3h (2 parts)
@@ -105,7 +103,7 @@ The project will use a client-server architecture, with development split into t
 
 ![alt text](screenshots/ws17_1.png)
 
-### Event management dashboard
+## Event management dashboard
 
 - **From:** WorldSkills 2019
 - **Time:** 3h
@@ -114,7 +112,7 @@ The project will use a client-server architecture, with development split into t
 
 ![alt text](screenshots/ws19_1.png)
 
-### Online web game platform
+## Online web game platform
 
 - **From:** WorldSkills 2022 Special Edition
 - **Time:** 3h + 3h (2 parts)
@@ -129,7 +127,7 @@ The frontend must include features such as user sign-up/sign-in/sign-out, discov
 
 ![alt text](screenshots/ws22_1.png)
 
-### Lots of small interactive JavaScript games
+## Lots of small interactive JavaScript games
 
 I have created numerous interactive JavaScript games, utilizing the canvas element, among other tools.
 
