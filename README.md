@@ -6,7 +6,7 @@ Here's a summary of my training journey for the WorldSkills 2024 web development
 ## Journey in numbers
 
 - Over 460 hours dedicated training
-- +32 different sizes projects (React & Laravel)
+- +30 different sizes projects (React & Laravel)
 - 3 official training competitions (Hungarian ES2025 qualification, Taitaja2024 and UWDC2024)
 - ~80 small tasks "speedtests" (JS, HTML/CSS, vanilla PHP)
 
@@ -19,6 +19,7 @@ Here's a summary of my training journey for the WorldSkills 2024 web development
 - Writing tests with Cypress & PHPUnit
 - Using CI/CD pipelines and writing secure automated deployment flows
 - Docker usage in web-development
+- A broader understanding and utilization of Git & GitHub in web development.
 - Stress and time management
 - A more professional approach to everything
 
@@ -27,6 +28,8 @@ Here's a summary of my training journey for the WorldSkills 2024 web development
 Here is a list of some of the projects I have completed during this journey.
 
 **All of them were made without access to the internet or any generative AI.**
+
+They aren't beautiful, but they all work as they should and meet all the task evaluation criteria.
 
 ## Online multiplayer drawing game
 
@@ -54,6 +57,16 @@ Users can:
 - Chat with people in the same room.
 
 ![alt text](screenshots/uwdc23_1.png)
+
+## AI API SaaS
+
+- **From:** EuroSkills 2023
+- **Time:** 6h
+
+**Description:** This task requires creating a server-side rendered website for managing API usage and billing, adhering to OWASP security guidelines. The site features a login system, workspace management, API tokens, billing quotas, and monthly bills. Users can create multiple workspaces, each with its own API tokens and quotas. Tokens can be managed, and billing quotas set to control API usage. Monthly bills detail usage and costs for each token and service. The project also includes designing a database and importing example data, focusing on core functionality and basic styling for usability.
+
+![alt text](screenshots/es23_1.png)
+![alt text](screenshots/es23_2.png)
 
 ## Easing functions visual simulator
 
@@ -133,13 +146,20 @@ I have created numerous interactive JavaScript games, utilizing the canvas eleme
 
 Here are some screenshots of a few of them:
 
-//KUVAT TÄHÄN
+![alt text](screenshots/runninggame.png)
+![alt text](screenshots/spaceships.png)
+![alt text](screenshots/ballgame.png)
+![alt text](screenshots/flappybird.png)
+![alt text](screenshots/htmlgame.png)
+
 ## Judging
 
 I also judged the selection competitions for Finland's EuroSkills 2025 representative, where the Finnish representative for the 2025 European Skills Championships in the web development category was chosen.
+
 ## Thanks
 
 - To world best expert and coach, @margittennosaar
+- Our Finnish National Team and the people at SkillsFinland
 - My school for making this possible ([Saimaa Vocational College Sampo](https://www.edusampo.fi/))
 - Friends & family
 - All the others within this journey
