@@ -152,19 +152,19 @@ Here are some screenshots of a few of them:
 ![alt text](screenshots/flappybird.png)
 ![alt text](screenshots/htmlgame.png)
 
-## Judging
+## Markings
 
-I also judged the selection competitions for Finland's EuroSkills 2025 representative, where the Finnish representative for the 2025 European Skills Championships in the web development category was chosen.
+I also evaluated the selection competitions for Finland's EuroSkills 2025 representative, where the Finnish representative for the 2025 European Skills Championships in the web development category was chosen.
 
 ## Task rights
 
 All tasks presented by me are owned by the following organizations/individuals:
 
-WorldSkills International
-EuroSkills
-Margit Tennosaar
-Franz Stimpfl
-Roberts Flaumanis
+- WorldSkills International
+- EuroSkills
+- Margit Tennosaar
+- Franz Stimpfl
+- Roberts Flaumanis
 
 ## Thanks
 
