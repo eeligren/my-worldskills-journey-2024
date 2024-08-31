@@ -1,7 +1,7 @@
 
 # My WorldSkills Lyon 2024 journey
 
-Here's a summary of my training journey for the WorldSkills 2024 web development competition in Lyon, along with a list of tasks and projects I've completed as part of the training in 2024.
+Here's a summary of my training journey for the WorldSkills 2024 Web Development competition in Lyon, along with a list of tasks and projects I've completed as part of the training in 2024.
 
 ## Journey in numbers
 
@@ -155,6 +155,16 @@ Here are some screenshots of a few of them:
 ## Judging
 
 I also judged the selection competitions for Finland's EuroSkills 2025 representative, where the Finnish representative for the 2025 European Skills Championships in the web development category was chosen.
+
+## Task rights
+
+All tasks presented by me are owned by the following organizations/individuals:
+
+WorldSkills International
+EuroSkills
+Margit Tennosaar
+Franz Stimpfl
+Roberts Flaumanis
 
 ## Thanks
 
